@@ -1,4 +1,4 @@
-import * as ElementPlus from 'element-plus/lib'
+import * as ElementPlus from 'element-plus/dist/index.full'
 // @ts-ignore
 import { defineNuxtPlugin } from '#app'
 
