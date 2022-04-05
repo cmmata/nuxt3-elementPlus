@@ -9,7 +9,7 @@
     "nuxt3": "latest"
   },
   "dependencies": {
-    "@element-plus/icons-vue": "^0.2.4",
-    "element-plus": "^1.2.0-beta.6"
+    "@element-plus/icons-vue": "1.1.4",
+    "element-plus": "2.1.8"
   }
 }
